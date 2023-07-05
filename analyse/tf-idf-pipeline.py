@@ -37,3 +37,5 @@ print("Accuracy (TF-IDF):", accuracy)
 
 with open('nlp_pipeline.pkl', 'wb') as file:
     pickle.dump(nlp_pipeline, file)
+
+print(type(nlp_pipeline))
