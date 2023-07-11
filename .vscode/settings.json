@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "analysis",
-        "elastic_search"
+        "elastic_search",
+        "hugging_face"
     ]
 }

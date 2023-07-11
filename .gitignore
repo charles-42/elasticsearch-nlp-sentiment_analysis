@@ -1,5 +1,6 @@
 elastic_search/data/
 hf_model/results
+hf_model/outputs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
